@@ -4,5 +4,15 @@ version = "0.1.0"
 description = ""
 authors = ["you"]
 readme = "README.md"
-requires-python = ">=3.13"
-package-mode = false
+package-mode = false  # Add this line
+
+[tool.poetry.dependencies]
+python = "^3.9"
+streamlit = "^1.30.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+
