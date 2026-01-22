@@ -1,5 +1,7 @@
-##  Game Features
 
+## Vanishing Tic Tac Toe
+- Try it out : [Streamlit app](https://vanishingtictactoe-mwrhnrmkria5guekjlbjmf.streamlit.app/)
+---
 ###  Time-Based Vanishing
 - Each placed piece **automatically disappears** after a configurable time limit (**5–30 seconds**).
 - **Real-time countdown timer** displayed in the sidebar for all active pieces.
@@ -8,7 +10,7 @@
 
 ---
 
-### 🤖 Bot Mode (Play vs AI)
+### Bot Mode (Play vs AI)
 Play against an AI opponent with three difficulty levels:
 
 #### 🟢 Easy
